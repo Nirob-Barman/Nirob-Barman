@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nirob Barman</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate Full Stack developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nirob-barman&label=Profile%20views&color=0e75b6&style=flat" alt="nirob-barman" /> </p>
 
