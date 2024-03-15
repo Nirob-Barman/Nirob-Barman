@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://github.com/Nirob-Barman/Nirob-Barman/blob/main/images/cover.gif"  />
+</div>
+
 <h1 align="center">Hi 👋, I'm Nirob Barman</h1>
 <h3 align="center">A passionate Full Stack developer from Bangladesh</h3>
 
