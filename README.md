@@ -28,7 +28,7 @@
 <a href="https://www.hackerearth.com/@nirob.barman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@nirob.barman" height="30" width="40" /></a>
 </p> -->
 
-
+<!-- 
 <p align="left">
   <a href="https://linkedin.com/in/nirob-barman-a1b120147" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -47,6 +47,28 @@
   </a>
   <a href="https://www.hackerearth.com/@nirob.barman" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="HackerEarth" height="30" width="40" />
+  </a>
+</p> -->
+
+
+<p align="center">
+  <a href="https://linkedin.com/in/nirob-barman-a1b120147" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" style="margin-right: 10px;" />
+  </a>
+  <a href="https://fb.com/nirob.barman.19" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="40" style="margin-right: 10px;" />
+  </a>
+  <a href="https://www.codechef.com/users/rsnirob" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" width="40" style="margin-right: 10px;" />
+  </a>
+  <a href="https://www.hackerrank.com/niroborin111" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" width="40" style="margin-right: 10px;" />
+  </a>
+  <a href="https://codeforces.com/profile/rsnirob" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" width="40" style="margin-right: 10px;" />
+  </a>
+  <a href="https://www.hackerearth.com/@nirob.barman" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="HackerEarth" width="40" style="margin-right: 10px;" />
   </a>
 </p>
 
