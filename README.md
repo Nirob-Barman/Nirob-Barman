@@ -18,7 +18,9 @@
 
 - 💬 Curious about **Django** or **React**? Feel free to ask me anything!
 
-- 📫 How to reach me **nirob.barman.19@gmail.com**
+<!-- - 📫 How to reach me **nirob.barman.19@gmail.com**-->
+- 📫 Reach out to me at nirob.barman.19@gmail.com for any inquiries or collaborations.
+
 
 <h3 align="left">Connect with me:</h3>
 
