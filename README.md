@@ -12,7 +12,8 @@
 <!-- - 🌱 I’m currently learning **Django** -->
 - 🌱 Currently honing my skills as a software engineer intern, with a primary focus on .NET MVC. 
 
-- 👨‍💻 All of my projects are available at [https://nirob-barman-19.web.app/](https://nirob-barman-19.web.app/)
+<!-- - 👨‍💻 All of my projects are available at [https://nirob-barman-19.web.app/](https://nirob-barman-19.web.app/) -->
+- 👨‍💻 Explore my projects at https://nirob-barman-19.web.app/.
 
 <!-- 💬 Ask me about **Django, React** -->
 
