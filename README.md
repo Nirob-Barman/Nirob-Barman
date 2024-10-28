@@ -10,7 +10,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nirob-barman" alt="nirob-barman" /></a> </p>
 
 <!-- - 🌱 I’m currently learning **Django** -->
-- 🌱 Currently honing my skills as a software engineer intern, with a primary focus on .NET MVC. 
+<!-- - 🌱 Currently honing my skills as a software engineer intern, with a primary focus on .NET MVC. -->
+- 🌱 Currently working as a software engineer with a primary focus on .NET MVC.
 
 <!-- - 👨‍💻 All of my projects are available at [https://nirob-barman-19.web.app/](https://nirob-barman-19.web.app/) -->
 <!-- Following both does the same thing -->
@@ -20,7 +21,8 @@
 
 <!-- 💬 Ask me about **Django, React** -->
 
-- 💬 Curious about **Django** or **React**? Feel free to ask me anything!
+<!-- - 💬 Curious about **Django** or **React**? Feel free to ask me anything! -->
+- 💬 Curious about **.NET** or **React**? Feel free to ask me anything!
 
 <!-- - 📫 How to reach me **nirob.barman.19@gmail.com**-->
 - 📫 Reach out to me at nirob.barman.19@gmail.com for any inquiries or collaborations.
