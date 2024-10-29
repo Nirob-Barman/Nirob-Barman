@@ -76,9 +76,6 @@
   <a href="https://linkedin.com/in/nirob-barman" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" style="margin-right: 10px;" />
   </a>
-  <a href="https://fb.com/nirob.barman.19" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="40" style="margin-right: 10px;" />
-  </a>
   <a href="https://leetcode.com/u/nirob-barman-19/" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/nirob-barman-19/" width="40" style="margin-right: 10px;" /></a>
   <a href="https://www.codechef.com/users/rsnirob" target="_blank">
@@ -96,6 +93,9 @@
   <a href="https://www.hackerearth.com/@nirob.barman" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="HackerEarth" width="40" style="margin-right: 10px;" />
   </a>
+  </a>
+  <a href="https://fb.com/nirob.barman.19" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="40" style="margin-right: 10px;" />  
 </p>
 
 
