@@ -23,7 +23,10 @@
 <!-- 💬 Ask me about **Django, React** -->
 
 <!-- - 💬 Curious about **Django** or **React**? Feel free to ask me anything! -->
-- 💬 Curious about **.NET** or **React**? Feel free to ask me anything!
+<!-- - 💬 Curious about **.NET** or **React**? Feel free to ask me anything!  -->
+<!-- - 💬 Curious about **.NET**, **React**, or **software architecture and design patterns**? Feel free to ask me anything! -->
+- 💬 Curious about **.NET**, **React**, **software architecture**, **design patterns**, or **data structures and algorithms (DSA)**? Feel free to ask me anything!
+
 
 <!-- - 📫 How to reach me **nirob.barman.19@gmail.com**-->
 - 📫 Reach out to me at nirob.barman.19@gmail.com for any inquiries or collaborations.
