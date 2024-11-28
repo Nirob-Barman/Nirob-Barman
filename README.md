@@ -105,11 +105,11 @@
   <a href="https://www.hackerearth.com/@nirob.barman" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="HackerEarth" width="40" style="margin-right: 10px;" />
   </a>
-
+<!--
   <a href="https://fb.com/nirob.barman.19" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="40" style="margin-right: 10px;" />  
   </a>
-
+-->
   <a href="https://medium.com/@nirob-barman" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@nirob-barman" width="40" style="margin-right: 10px;"/>
   </a>
