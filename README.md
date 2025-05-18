@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://github.com/Nirob-Barman/Nirob-Barman/blob/main/images/cover.gif"  />
+<!--   <img src="https://github.com/Nirob-Barman/Nirob-Barman/blob/main/images/cover.gif"  /> -->
+  <img src="https://github.com/Nirob-Barman/Nirob-Barman/blob/main/images/Blue and White Modern Technology Portfolio Presentation.gif"  />
 </div>
 
 <h1 align="center">Hi 👋, I'm Nirob Barman</h1>
